@@ -1,0 +1,398 @@
+c:\users\wkst\documents\visual studio 2013\Projects\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\tank_body.png
+c:\users\wkst\documents\visual studio 2013\Projects\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\tank_turret.png
+c:\users\wkst\documents\visual studio 2013\Projects\TP Tank Game\TP Tank Game\bin\Windows\Debug\TP Tank Game.exe
+c:\users\wkst\documents\visual studio 2013\Projects\TP Tank Game\TP Tank Game\bin\Windows\Debug\TP Tank Game.pdb
+c:\users\wkst\documents\visual studio 2013\Projects\TP Tank Game\TP Tank Game\bin\Windows\Debug\MonoGame.Framework.dll
+c:\users\wkst\documents\visual studio 2013\Projects\TP Tank Game\TP Tank Game\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+c:\users\wkst\documents\visual studio 2013\Projects\TP Tank Game\TP Tank Game\bin\Windows\Debug\SharpDX.dll
+c:\users\wkst\documents\visual studio 2013\Projects\TP Tank Game\TP Tank Game\bin\Windows\Debug\SharpDX.XAudio2.dll
+c:\users\wkst\documents\visual studio 2013\Projects\TP Tank Game\TP Tank Game\bin\Windows\Debug\SharpDX.Direct3D11.dll
+c:\users\wkst\documents\visual studio 2013\Projects\TP Tank Game\TP Tank Game\bin\Windows\Debug\SharpDX.DXGI.dll
+c:\users\wkst\documents\visual studio 2013\Projects\TP Tank Game\TP Tank Game\bin\Windows\Debug\SharpDX.Direct2D1.dll
+c:\users\wkst\documents\visual studio 2013\Projects\TP Tank Game\TP Tank Game\bin\Windows\Debug\Lidgren.Network.dll
+c:\users\wkst\documents\visual studio 2013\Projects\TP Tank Game\TP Tank Game\bin\Windows\Debug\SharpDX.XInput.dll
+c:\users\wkst\documents\visual studio 2013\Projects\TP Tank Game\TP Tank Game\bin\Windows\Debug\SharpDX.RawInput.dll
+c:\users\wkst\documents\visual studio 2013\Projects\TP Tank Game\TP Tank Game\bin\Windows\Debug\SharpDX.Direct3D9.dll
+c:\users\wkst\documents\visual studio 2013\Projects\TP Tank Game\TP Tank Game\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+c:\users\wkst\documents\visual studio 2013\Projects\TP Tank Game\TP Tank Game\bin\Windows\Debug\SharpDX.xml
+c:\users\wkst\documents\visual studio 2013\Projects\TP Tank Game\TP Tank Game\bin\Windows\Debug\SharpDX.XAudio2.xml
+c:\users\wkst\documents\visual studio 2013\Projects\TP Tank Game\TP Tank Game\bin\Windows\Debug\SharpDX.Direct3D11.xml
+c:\users\wkst\documents\visual studio 2013\Projects\TP Tank Game\TP Tank Game\bin\Windows\Debug\SharpDX.DXGI.xml
+c:\users\wkst\documents\visual studio 2013\Projects\TP Tank Game\TP Tank Game\bin\Windows\Debug\SharpDX.Direct2D1.xml
+c:\users\wkst\documents\visual studio 2013\Projects\TP Tank Game\TP Tank Game\bin\Windows\Debug\SharpDX.XInput.xml
+c:\users\wkst\documents\visual studio 2013\Projects\TP Tank Game\TP Tank Game\bin\Windows\Debug\SharpDX.RawInput.xml
+c:\users\wkst\documents\visual studio 2013\Projects\TP Tank Game\TP Tank Game\bin\Windows\Debug\SharpDX.Direct3D9.xml
+c:\users\wkst\documents\visual studio 2013\Projects\TP Tank Game\TP Tank Game\obj\x86\Debug\TP Tank Game.csprojResolveAssemblyReference.cache
+c:\users\wkst\documents\visual studio 2013\Projects\TP Tank Game\TP Tank Game\obj\x86\Debug\TP Tank Game.exe
+c:\users\wkst\documents\visual studio 2013\Projects\TP Tank Game\TP Tank Game\obj\x86\Debug\TP Tank Game.pdb
+C:\Users\WkSt\documents\visual studio 2013\Projects\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\soldado.png
+C:\Users\WkSt\documents\visual studio 2013\Projects\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\sand2.png
+C:\Users\WkSt\documents\visual studio 2013\Projects\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\bullet.png
+C:\Users\WkSt\documents\visual studio 2013\Projects\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\explosion.png
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\BulletHitFix.png
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\BulletMetal.png
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\explosion.png
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\Ground3.png
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\infantry\Commander2.png
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\infantry\CommanderHatch.png
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\infantry\Dead01-1.png
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\infantry\Dead02-2.png
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\infantry\InfantryRun1.png
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\infantry\InfantryRun2.png
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\infantry\InfantryRun3.png
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\infantry\InfantryRun4.png
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\infantry\InfantryRun5.png
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\infantry\MP 40 Smoke0.png
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\infantry\MP 40.png
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\infantry\MP40SmokeS.png
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\infantry\MP40SmokeS2.png
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\infantry\MP40SmokeS3.png
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\infantry\MP40SmokeS4.png
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\infantry\Mp40_256.png
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\infantry\Tracer.png
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\Palm6-Myadjst.png
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\Palm7-Myadjst.png
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\tank\ShermanBase.png
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\tank\ShermanBaseOPEN.png
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\tank\ShermanTurretBig.png
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\tank\Tiger GunSight-01.png
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\tank\TigerBase01.png
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\tank\TigerTurretExit.png
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\tank\TigerTurretFireOpenFix.png
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\TigerFireSheet.png
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\TigerFireSheetTEST.png
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\TurretFire Ani.png
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\ui\ammo box2.png
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\ui\APTigerF.png
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\ui\Background.png
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\ui\HeTigerF.png
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\ui\new_tank_engine.png
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\ui\new_tank_traks.png
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\Properties\AssemblyInfo.cs
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\fonts\myUiFont.xnb
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\sound\Infantry\Weapons\adpcmMp40ReloadRealMultiMono.xnb
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\sound\Infantry\Weapons\dryfire_rifle.xnb
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\sound\Infantry\Weapons\dryfire_smg.xnb
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\sound\Infantry\Weapons\mg34_fire_end01.xnb
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\sound\Infantry\Weapons\mg34_fire_loop01.xnb
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\sound\Infantry\Weapons\mg34_fire_single01.xnb
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\sound\Infantry\Weapons\mg34_p_fire_end011.xnb
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\sound\Infantry\Weapons\mg34_p_fire_loop011.xnb
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\sound\Infantry\Weapons\MG34_ReloadHidden.xnb
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\sound\Infantry\Weapons\Mp40ReloadSmall.xnb
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\sound\Infantry\Weapons\mp40_fire011.xnb
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\sound\Infantry\Weapons\mp40_fire021.xnb
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\sound\Infantry\Weapons\mp40_fire031.xnb
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\sound\Infantry\Weapons\mp40_reloadempty01_000.xnb
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\sound\Infantry\Weapons\mp40_reloadempty01_magin.xnb
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\sound\Infantry\Weapons\mp40_reloadempty02_054.xnb
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\sound\Infantry\Weapons\mp40_reloadempty02_magout.xnb
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\sound\Infantry\Weapons\mp40_reloadempty03_106.xnb
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\sound\Infantry\Weapons\mp40_reloadempty03_boltback.xnb
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\sound\Infantry\Weapons\mp40_reloadhalf01_000.xnb
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\sound\Infantry\Weapons\mp40_reloadhalf02_042.xnb
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\sound\Infantry\Weapons\mp40_reloadhalf03_075.xnb
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\sound\Tank\Gun\75mm_VL_fire011.xnb
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\sound\Tank\Gun\75mm_VL_fire_distant01.xnb
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\sound\Tank\Gun\76mm_fire031.xnb
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\sound\Tank\Gun\76mm_fire_distant02.xnb
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\sound\Tank\Gun\76mm_fire_distant03.xnb
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\sound\Tank\Gun\88mm_fire011.xnb
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\sound\Tank\Gun\88mm_fire021.xnb
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\sound\Tank\Gun\88mm_fire031.xnb
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\sound\Tank\Gun\88mm_fire_distant02.xnb
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\sound\Tank\Gun\88mm_fire_distant03.xnb
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\sound\Tank\Gun\mg34_barrelchange01.xnb
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\sound\Tank\Gun\mg34_barrelchange02.xnb
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\sound\Tank\Gun\mg34_barrelchange03.xnb
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\sound\Tank\Gun\mg34_fire_distant_end.xnb
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\sound\Tank\Gun\mg34_fire_distant_loop.xnb
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\sound\Tank\Gun\mg34_fire_distant_single.xnb
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\sound\Tank\Gun\mg34_fire_end01.xnb
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\sound\Tank\Gun\mg34_fire_loop01.xnb
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\sound\Tank\Gun\mg34_fire_single01.xnb
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\sound\Tank\Gun\mg34_p_fire_distant_end.xnb
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\sound\Tank\Gun\mg34_p_fire_distant_loop.xnb
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\sound\Tank\Gun\mg34_p_fire_end011.xnb
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\sound\Tank\Gun\mg34_p_fire_loop011.xnb
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\sound\Tank\Gun\mg34_reload01_000.xnb
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\sound\Tank\Gun\mg34_reload02_039.xnb
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\sound\Tank\Gun\mg34_reload03_104.xnb
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\sound\Tank\Gun\mg34_reload04_170.xnb
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\sound\Tank\Gun\MG34_ReloadHidden.xnb
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\sound\Tank\Movement\tiger_commanderhatch_close.xnb
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\sound\Tank\Movement\tiger_commanderhatch_open.xnb
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\sound\Tank\Movement\tiger_engine_distant_loop01.xnb
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\sound\Tank\Movement\tiger_engine_loop01.xnb
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\sound\Tank\Movement\tiger_engine_start.xnb
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\Content\sound\Tank\Movement\tiger_engine_stop.xnb
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\TP Tank Game.exe
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\TP Tank Game.pdb
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\SharpDX.dll
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\SharpDX.xml
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\obj\x86\Debug\TP Tank Game.exe
+C:\Users\WkSt\Documents\GitHub\Tpj-Trabalhos\TP Tank Game\TP Tank Game\obj\x86\Debug\TP Tank Game.pdb
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\BulletHitFix.png
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\BulletMetal.png
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\explosion.png
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\Ground3.png
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\infantry\Commander2.png
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\infantry\CommanderHatch.png
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\infantry\Dead01-1.png
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\infantry\Dead02-2.png
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\infantry\InfantryRun1.png
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\infantry\InfantryRun2.png
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\infantry\InfantryRun3.png
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\infantry\InfantryRun4.png
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\infantry\InfantryRun5.png
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\infantry\MP 40 Smoke0.png
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\infantry\MP 40.png
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\infantry\MP40SmokeS.png
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\infantry\MP40SmokeS2.png
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\infantry\MP40SmokeS3.png
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\infantry\MP40SmokeS4.png
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\infantry\Mp40_256.png
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\infantry\Tracer.png
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\Palm6-Myadjst.png
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\Palm7-Myadjst.png
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\tank\ShermanBase.png
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\tank\ShermanBaseOPEN.png
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\tank\ShermanTurretBig.png
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\tank\Tiger GunSight-01.png
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\tank\TigerBase01.png
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\tank\TigerTurretExit.png
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\tank\TigerTurretFireOpenFix.png
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\TigerFireSheet.png
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\TigerFireSheetTEST.png
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\TurretFire Ani.png
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\ui\ammo box2.png
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\ui\APTigerF.png
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\ui\Background.png
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\ui\HeTigerF.png
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\ui\new_tank_engine.png
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\ui\new_tank_traks.png
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Properties\AssemblyInfo.cs
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\fonts\myUiFont.xnb
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Infantry\Weapons\adpcmMp40ReloadRealMultiMono.xnb
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Infantry\Weapons\dryfire_rifle.xnb
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Infantry\Weapons\dryfire_smg.xnb
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Infantry\Weapons\mg34_fire_end01.xnb
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Infantry\Weapons\mg34_fire_loop01.xnb
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Infantry\Weapons\mg34_fire_single01.xnb
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Infantry\Weapons\mg34_p_fire_end011.xnb
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Infantry\Weapons\mg34_p_fire_loop011.xnb
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Infantry\Weapons\MG34_ReloadHidden.xnb
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Infantry\Weapons\Mp40ReloadSmall.xnb
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Infantry\Weapons\mp40_fire011.xnb
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Infantry\Weapons\mp40_fire021.xnb
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Infantry\Weapons\mp40_fire031.xnb
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Infantry\Weapons\mp40_reloadempty01_000.xnb
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Infantry\Weapons\mp40_reloadempty01_magin.xnb
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Infantry\Weapons\mp40_reloadempty02_054.xnb
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Infantry\Weapons\mp40_reloadempty02_magout.xnb
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Infantry\Weapons\mp40_reloadempty03_106.xnb
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Infantry\Weapons\mp40_reloadempty03_boltback.xnb
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Infantry\Weapons\mp40_reloadhalf01_000.xnb
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Infantry\Weapons\mp40_reloadhalf02_042.xnb
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Infantry\Weapons\mp40_reloadhalf03_075.xnb
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Tank\Gun\75mm_VL_fire011.xnb
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Tank\Gun\75mm_VL_fire_distant01.xnb
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Tank\Gun\76mm_fire031.xnb
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Tank\Gun\76mm_fire_distant02.xnb
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Tank\Gun\76mm_fire_distant03.xnb
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Tank\Gun\88mm_fire011.xnb
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Tank\Gun\88mm_fire021.xnb
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Tank\Gun\88mm_fire031.xnb
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Tank\Gun\88mm_fire_distant02.xnb
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Tank\Gun\88mm_fire_distant03.xnb
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Tank\Gun\mg34_barrelchange01.xnb
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Tank\Gun\mg34_barrelchange02.xnb
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Tank\Gun\mg34_barrelchange03.xnb
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Tank\Gun\mg34_fire_distant_end.xnb
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Tank\Gun\mg34_fire_distant_loop.xnb
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Tank\Gun\mg34_fire_distant_single.xnb
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Tank\Gun\mg34_fire_end01.xnb
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Tank\Gun\mg34_fire_loop01.xnb
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Tank\Gun\mg34_fire_single01.xnb
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Tank\Gun\mg34_p_fire_distant_end.xnb
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Tank\Gun\mg34_p_fire_distant_loop.xnb
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Tank\Gun\mg34_p_fire_end011.xnb
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Tank\Gun\mg34_p_fire_loop011.xnb
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Tank\Gun\mg34_reload01_000.xnb
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Tank\Gun\mg34_reload02_039.xnb
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Tank\Gun\mg34_reload03_104.xnb
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Tank\Gun\mg34_reload04_170.xnb
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Tank\Gun\MG34_ReloadHidden.xnb
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Tank\Movement\tiger_commanderhatch_close.xnb
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Tank\Movement\tiger_commanderhatch_open.xnb
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Tank\Movement\tiger_engine_distant_loop01.xnb
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Tank\Movement\tiger_engine_loop01.xnb
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Tank\Movement\tiger_engine_start.xnb
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Tank\Movement\tiger_engine_stop.xnb
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\TP Tank Game.exe
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\TP Tank Game.pdb
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\SharpDX.dll
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\SharpDX.xml
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\obj\x86\Debug\TP Tank Game.exe
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\obj\x86\Debug\TP Tank Game.pdb
+C:\Users\WkSt\Documents\GitHub\TP Afrika Korps - Artur 10854\obj\x86\Debug\TP Tank Game.csprojResolveAssemblyReference.cache
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TP Afrika Korps - Artur 10854\obj\x86\Debug\TP Tank Game.exe
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TP Afrika Korps - Artur 10854\obj\x86\Debug\TP Tank Game.pdb
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\obj\x86\Debug\TP Tank Game.exe
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\obj\x86\Debug\TP Tank Game.pdb
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\BulletHitFix.png
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\BulletMetal.png
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\explosion.png
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\Ground3.png
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\infantry\Commander2.png
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\infantry\CommanderHatch.png
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\infantry\Dead01-1.png
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\infantry\Dead02-2.png
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\infantry\InfantryRun1.png
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\infantry\InfantryRun2.png
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\infantry\InfantryRun3.png
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\infantry\InfantryRun4.png
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\infantry\InfantryRun5.png
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\infantry\MP 40 Smoke0.png
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\infantry\MP 40.png
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\infantry\MP40SmokeS.png
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\infantry\MP40SmokeS2.png
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\infantry\MP40SmokeS3.png
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\infantry\MP40SmokeS4.png
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\infantry\Mp40_256.png
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\infantry\Tracer.png
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\Palm6-Myadjst.png
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\Palm7-Myadjst.png
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\tank\ShermanBase.png
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\tank\ShermanBaseOPEN.png
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\tank\ShermanTurretBig.png
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\tank\Tiger GunSight-01.png
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\tank\TigerBase01.png
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\tank\TigerTurretExit.png
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\tank\TigerTurretFireOpenFix.png
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\TigerFireSheet.png
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\TigerFireSheetTEST.png
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\TurretFire Ani.png
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\ui\ammo box2.png
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\ui\APTigerF.png
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\ui\Background.png
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\ui\HeTigerF.png
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\ui\new_tank_engine.png
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\ui\new_tank_traks.png
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Properties\AssemblyInfo.cs
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\fonts\myUiFont.xnb
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Infantry\Weapons\adpcmMp40ReloadRealMultiMono.xnb
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Infantry\Weapons\dryfire_rifle.xnb
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Infantry\Weapons\dryfire_smg.xnb
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Infantry\Weapons\mg34_fire_end01.xnb
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Infantry\Weapons\mg34_fire_loop01.xnb
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Infantry\Weapons\mg34_fire_single01.xnb
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Infantry\Weapons\mg34_p_fire_end011.xnb
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Infantry\Weapons\mg34_p_fire_loop011.xnb
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Infantry\Weapons\MG34_ReloadHidden.xnb
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Infantry\Weapons\Mp40ReloadSmall.xnb
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Infantry\Weapons\mp40_fire011.xnb
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Infantry\Weapons\mp40_fire021.xnb
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Infantry\Weapons\mp40_fire031.xnb
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Infantry\Weapons\mp40_reloadempty01_000.xnb
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Infantry\Weapons\mp40_reloadempty01_magin.xnb
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Infantry\Weapons\mp40_reloadempty02_054.xnb
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Infantry\Weapons\mp40_reloadempty02_magout.xnb
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Infantry\Weapons\mp40_reloadempty03_106.xnb
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Infantry\Weapons\mp40_reloadempty03_boltback.xnb
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Infantry\Weapons\mp40_reloadhalf01_000.xnb
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Infantry\Weapons\mp40_reloadhalf02_042.xnb
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Infantry\Weapons\mp40_reloadhalf03_075.xnb
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Tank\Gun\75mm_VL_fire011.xnb
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Tank\Gun\75mm_VL_fire_distant01.xnb
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Tank\Gun\76mm_fire031.xnb
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Tank\Gun\76mm_fire_distant02.xnb
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Tank\Gun\76mm_fire_distant03.xnb
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Tank\Gun\88mm_fire011.xnb
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Tank\Gun\88mm_fire021.xnb
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Tank\Gun\88mm_fire031.xnb
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Tank\Gun\88mm_fire_distant02.xnb
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Tank\Gun\88mm_fire_distant03.xnb
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Tank\Gun\mg34_barrelchange01.xnb
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Tank\Gun\mg34_barrelchange02.xnb
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Tank\Gun\mg34_barrelchange03.xnb
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Tank\Gun\mg34_fire_distant_end.xnb
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Tank\Gun\mg34_fire_distant_loop.xnb
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Tank\Gun\mg34_fire_distant_single.xnb
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Tank\Gun\mg34_fire_end01.xnb
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Tank\Gun\mg34_fire_loop01.xnb
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Tank\Gun\mg34_fire_single01.xnb
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Tank\Gun\mg34_p_fire_distant_end.xnb
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Tank\Gun\mg34_p_fire_distant_loop.xnb
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Tank\Gun\mg34_p_fire_end011.xnb
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Tank\Gun\mg34_p_fire_loop011.xnb
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Tank\Gun\mg34_reload01_000.xnb
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Tank\Gun\mg34_reload02_039.xnb
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Tank\Gun\mg34_reload03_104.xnb
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Tank\Gun\mg34_reload04_170.xnb
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Tank\Gun\MG34_ReloadHidden.xnb
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Tank\Movement\tiger_commanderhatch_close.xnb
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Tank\Movement\tiger_commanderhatch_open.xnb
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Tank\Movement\tiger_engine_distant_loop01.xnb
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Tank\Movement\tiger_engine_loop01.xnb
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Tank\Movement\tiger_engine_start.xnb
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\Content\sound\Tank\Movement\tiger_engine_stop.xnb
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\TP Tank Game.exe
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\TP Tank Game.pdb
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\SharpDX.dll
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\SharpDX.xml
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\obj\x86\Debug\TP Tank Game.csprojResolveAssemblyReference.cache
