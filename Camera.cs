@@ -9,7 +9,7 @@ namespace TP_Afrika_Korps
     class Camera
     {
         public static GraphicsDeviceManager gDevManager;
-        public static float worldWidth { private set; get; }
+        public static float worldWidth { private set; get; } // dimensão do mundo
         public static float ratio { private set; get; }
         private static Vector2 target;
         private static int lastSeenPixelWidth = 0;

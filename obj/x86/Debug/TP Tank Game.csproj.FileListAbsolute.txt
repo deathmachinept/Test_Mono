@@ -396,3 +396,5 @@ C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Af
 C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\SharpDX.RawInput.xml
 C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\bin\Windows\Debug\SharpDX.Direct3D9.xml
 C:\Users\WkSt\Documents\GitHub\TankGame SavedWorking\TankGame SavedWorking\TP Afrika Korps - Artur 10854\obj\x86\Debug\TP Tank Game.csprojResolveAssemblyReference.cache
+C:\Users\WkSt\Documents\Test_Mono\obj\x86\Debug\TP Tank Game.exe
+C:\Users\WkSt\Documents\Test_Mono\obj\x86\Debug\TP Tank Game.pdb
